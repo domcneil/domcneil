@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @domcneil
+- 👋 Hi, I’m Dominique!
 - 👀 I’m interested in ... learning to code, growing my skills, and creative pursuits 
 - 🌱 I’m currently learning ... all about the ServiceNow platform, CSS, HTML, and Javascript!
 - 💞️ I’m looking to collaborate on ... new projects that will help me grow my skills
